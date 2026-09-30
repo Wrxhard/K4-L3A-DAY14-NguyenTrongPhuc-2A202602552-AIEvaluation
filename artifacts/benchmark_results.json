@@ -1,0 +1,11 @@
+{
+  "avg_faithfulness": 0.95,
+  "avg_relevance": 0.95,
+  "avg_completeness": 0.9,
+  "avg_context_precision": 1.0,
+  "avg_context_recall": 1.0,
+  "failure_types": [
+    "hallucination"
+  ],
+  "total": 20
+}
